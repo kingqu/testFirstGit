@@ -1,0 +1,2 @@
+# testFirstGit
+my first gitRepository
